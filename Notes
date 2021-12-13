@@ -1,0 +1,14 @@
+Work on it :
+===========
+1. https://spark.apache.org/docs/latest/running-on-kubernetes.html
+2. Go through spark programming guide
+3. https://sparkbyexamples.com/spark/spark-get-the-current-sparkcontext-settings/
+4. https://sparkbyexamples.com/pandas/pandas-dataframe-tutorial-beginners-guide/
+https://spark-packages.org/
+
+
+
+At:
+===
+https://sparkbyexamples.com/pyspark/convert-pyspark-rdd-to-dataframe/
+Convert PySpark RDD to DataFrame

@@ -10,5 +10,5 @@ https://spark-packages.org/
 
 At:
 ===
-https://sparkbyexamples.com/pyspark/pyspark-column-functions/
-column class
+https://sparkbyexamples.com/pyspark/select-columns-from-pyspark-dataframe/
+select()

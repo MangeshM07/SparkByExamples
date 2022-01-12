@@ -10,5 +10,5 @@ https://spark-packages.org/
 
 At:
 ===
-https://sparkbyexamples.com/pyspark/select-columns-from-pyspark-dataframe/
-select()
+https://sparkbyexamples.com/pyspark/pyspark-rename-dataframe-column/
+withColumnRenamed()
